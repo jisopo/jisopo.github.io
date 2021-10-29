@@ -141,6 +141,12 @@ footer a:link, footer a:visited {
   max-width: 420px;
 }
 
+.tm-section-2 {
+  margin-top: 70px;
+  max-width: 1800px;
+  /* margin-right: 100px; */
+}
+
 .tm-link:link,
 .tm-link:visited {
   background-color: white;
